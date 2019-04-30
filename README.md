@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Science-Projects-with-Python.svg)](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python/pulls)
 
-## Data-Science-Projects-with-Python
+# Data Science Projects with Python
 *Data Science Projects with Python* is designed to give you practical guidance on industry-standard data analysis and machine learning tools in Python, with the help of realistic data. The course will help you understand how you can use pandas and Matplotlib to critically examine a dataset with summary statistics and graphs, and extract the insights you seek to derive. You will continue to build on your knowledge as you learn how to prepare data and feed it to machine learning algorithms, such as regularized logistic regression and random forest, using the scikit-learn package. You’ll discover how to tune the algorithms to provide the best predictions on new and, unseen data. As you delve into later chapters, you’ll be able to understand the working and output of these algorithms and gain insight into not only the predictive capabilities of the models but also their reasons for making these predictions. 
 
 By the end of this course, you will have the skills you need to confidently use various machine learning algorithms to perform detailed data analysis and extract meaningful insights from unstructured data.
@@ -29,6 +29,6 @@ For an optimal student experience, we recommend the following hardware configura
 * OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit, Ubuntu Linux, or the latest version of OS X
 * Browser: Google Chrome/Mozilla Firefox Latest Version
 * Notepad++/Sublime Text as IDE (Optional, as you can practice everything using Jupyter notecourse on your browser)
-* Python 3.4+ (latest is Python 3.7) installed (from https://python.org)
+* Python 3.4+ (latest is recommended) installed (from https://python.org)
 * Python libraries as needed (Jupyter, Numpy, Pandas, Matplotlib, BeautifulSoup4, and so on)
 
