@@ -24,3 +24,9 @@ For an optimal student experience, we recommend the following hardware configura
 * **Storage**: 35 Gb or higher
 
 ### Software requirements
+* OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit, Ubuntu Linux, or the latest version of OS X
+* Browser: Google Chrome/Mozilla Firefox Latest Version
+* Notepad++/Sublime Text as IDE (Optional, as you can practice everything using Jupyter notecourse on your browser)
+* Python 3.4+ (latest is Python 3.7) installed (from https://python.org)
+* Python libraries as needed (Jupyter, Numpy, Pandas, Matplotlib, BeautifulSoup4, and so on)
+
